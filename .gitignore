@@ -1,0 +1,7 @@
+.metadata/.plugins/org.eclipse.cdt.ui/*.build.log
+.metadata/.plugins/org.eclipse.core.resources/.history/
+.metadata/.bak*
+.metadata/.ide.log
+.metadata/.log
+.metadata/.plugins/org.eclipse.cdt.core/.log
+*.log
